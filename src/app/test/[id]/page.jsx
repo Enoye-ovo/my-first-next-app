@@ -5,7 +5,7 @@ const page = (props) => {
 
     return (
         <div>
-            <span style={{ cursor: 'pointer' }}>我是动态路由哈哈哈</span>
+            <span style={{ cursor: 'pointer' }}>我测试一下git提交</span>
         </div>
     );
 };
